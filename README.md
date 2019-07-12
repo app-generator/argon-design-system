@@ -4,6 +4,10 @@ Full-Stack Apps coded in [Vuejs](https://vuejs.org/) with [Express](https://expr
 
 <br />
 
+![Argon Design System - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/argon-design-system-intro.gif?raw=true)
+
+<br />
+
 ## [Flask Admin Dashboard Argon Design](https://appseed.us/admin-dashboards/flask-dashboard-argon)
 
 [Flask Admin Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon) is built on top of a fully responsive, pixel-perfect design, crafted by Creative-Tim. This admin panel, released as an open-source project includes an SQLite database, SQLAlchemy ORM, and is fully integrated into Jinja2 templating system. Your project requires authentication? No worries, Flask Argon Dashboard includes authentication by default. Other features: FTP deploy script, static export via Frozen-Flask.
