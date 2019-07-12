@@ -10,11 +10,15 @@ Full-Stack Apps coded in [Vuejs](https://vuejs.org/) with [Express](https://expr
 
 ![Flask Admin Dashboard Argon - App Screen Shot.](https://raw.githubusercontent.com/app-generator/static/master/flask-argon-dashboard/argon-dashboard-coded-in-flask-cover.jpg)
 
+<br />
+
 ## Flask Vuejs - Argon Design
 
 [Flask Vuejs - Argon Design](https://appseed.us/apps/flask-apps/argon-design-system-creative-tim) is a full-stack app, built in a decoupled architecture where Vuejs frontend runs in a separate process and communicate with the **Flask** backend through secure ajax calls. 
 
 ![Flask Admin Dashboard Argon - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/flask-vuejs-argon-design-system.jpg?raw=true)
+
+<br />
 
 ## Laravel Vuejs - Argon Design
 
@@ -22,18 +26,23 @@ Full-Stack Apps coded in [Vuejs](https://vuejs.org/) with [Express](https://expr
 
 ![Laravel Vuejs Argon Design - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/laravel-vuejs-argon-design-system.jpg?raw=true)
 
+<br />
+
 ## Express Vuejs - Argon Design
 
 [Express Vuejs - Argon Design](https://appseed.us/apps/vuejs/express/argon-design-system-creative-tim) is a full-stack app, built in a decoupled architecture where Vuejs frontend runs in a separate process and communicate with the **Express** backend through secure ajax calls. 
 
 ![Express Vuejs Argon Design - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/express-vuejs-argon-design-system.jpg?raw=true)
 
+<br />
+
 ## Related Resources
  - [Vue Argon Design](https://www.creative-tim.com/product/vue-argon-design-system) - the official page for Vuejs Argon Design
  - [Laravel](https://laravel.com/)
  - [Flask](https://palletsprojects.com/p/flask/)
  - [Express](https://expressjs.com/)
- 
- --- 
- Index provided by [AppSeed](https://appseed.us/admin-dashboards)
- 
+
+<br />
+
+--- 
+Index provided by [AppSeed](https://appseed.us/admin-dashboards)
