@@ -49,4 +49,4 @@ Full-Stack Apps coded in [Vuejs](https://vuejs.org/) with [Express](https://expr
 <br />
 
 --- 
-Index provided by [AppSeed](https://appseed.us/apps/argon-design-system)
+Apps with [Argon Design System](https://appseed.us/apps/argon-design-system) provided by **AppSeed**
